@@ -8,7 +8,7 @@ Now, uncomment the backend block and rerun the main.tf file again to transfer th
 This will be where the state files will be stored for the rest of this project.
 
 
-### Provision your desired resources
+### Provision Your Desired Resources
 ![Architecture Diagram](architecture.png)
 
 The main.tf file in the web-app folder will provision the resources in the aws resources architecture diagram above and send the state files directly to the backend s3 bucket created above.
