@@ -1,0 +1,7 @@
+aws-backend/.terraform/
+aws-backend/.terraform*
+aws-backend/terraform*
+
+web-app/.terraform/
+web-app/.terraform*
+
