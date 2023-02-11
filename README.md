@@ -1,4 +1,4 @@
-# basic-terraform-with-aws-backend
+# terraform-aws-webapp-with-aws-backend
 This is a project to provision aws resources with terraform, but store the state files in aws backend along with encryption and state-locking via DynamoDB.
 Take the following steps after you Clone this repository
 
